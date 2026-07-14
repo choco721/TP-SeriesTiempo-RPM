@@ -1,0 +1,40 @@
+[
+  {
+    "check": "n observaciones",
+    "expected": 216,
+    "obtained": 216,
+    "status": "OK",
+    "detail": "rel_diff=0.00%"
+  },
+  {
+    "check": "Inicio (anio)",
+    "expected": 2002,
+    "obtained": 2002,
+    "status": "OK",
+    "detail": "rel_diff=0.00%"
+  },
+  {
+    "check": "Inicio (mes)",
+    "expected": 1,
+    "obtained": 1,
+    "status": "OK",
+    "detail": "rel_diff=0.00%"
+  },
+  {
+    "check": "Fin (anio)",
+    "expected": 2019,
+    "obtained": 2019,
+    "status": "OK",
+    "detail": "rel_diff=0.00%"
+  },
+  {
+    "check": "Fin (mes)",
+    "expected": 12,
+    "obtained": 12,
+    "status": "OK",
+    "detail": "rel_diff=0.00%"
+  },
+  {
+    "check": "Nulos",
+    "expected": 0,
+    "obtained": 
